@@ -1,0 +1,5 @@
+/Users/marwaalahdab/Desktop/Advanced/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/net5.0/Lab04_TicTacToe.csproj.AssemblyReference.cache
+/Users/marwaalahdab/Desktop/Advanced/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/net5.0/Lab04_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marwaalahdab/Desktop/Advanced/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/net5.0/Lab04_TicTacToe.AssemblyInfoInputs.cache
+/Users/marwaalahdab/Desktop/Advanced/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/net5.0/Lab04_TicTacToe.AssemblyInfo.cs
+/Users/marwaalahdab/Desktop/Advanced/Lab04_TicTacToe/Lab04_TicTacToe/obj/Debug/net5.0/Lab04_TicTacToe.csproj.CoreCompileInputs.cache

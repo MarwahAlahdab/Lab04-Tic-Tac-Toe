@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{BEFBC2C9-8509-4092-A05D-83AE6A650519}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lab04__TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TicTacToeTests/UnitTest1.cs">
+    <Files>
+      <File FileName="Program.cs" Line="39" Column="1" />
+      <File FileName="Classes/Game.cs" Line="50" Column="34" />
+      <File FileName="Classes/Player.cs" Line="70" Column="4" />
+      <File FileName="Classes/Board.cs" Line="46" Column="1" />
+      <File FileName="Classes/Position.cs" Line="22" Column="3" />
+      <File FileName="../TicTacToeTests/UnitTest1.cs" Line="123" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab04_TicTacToe" expanded="True">
+            <Node name="Lab04_TicTacToe" expanded="True">
+              <Node name="Classes" expanded="True" />
+            </Node>
+            <Node name="TicTacToeTests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lab04_TicTacToe" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
