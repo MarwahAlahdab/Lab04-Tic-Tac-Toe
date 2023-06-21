@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{80F1FF1A-A4C2-4581-95A8-B3703285B635}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TicTacToeTests FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab04_TicTacToe" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lab04__TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
